@@ -1,0 +1,26 @@
+.formbase {
+    margin-left: 400px;
+    margin-right:400px;
+    margin-top:100px;
+    padding: 20px;
+    font-family: sans-serif;
+    background-color: lightblue;
+    border: 1px solid black;
+  }
+
+.loactionheading{
+  margin-left: 170px;
+}
+
+.labels{
+    margin-top:20px;
+    margin-left:50px;
+}
+.formspace{
+    margin-top:50px;
+}
+
+.addButton{
+    margin-left:190px;
+    margin-top:30px;
+}
